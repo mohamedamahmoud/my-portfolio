@@ -27,11 +27,12 @@ export const Hero = () => {
               </div>
             </div>
           </div>
-          <div className="w-48 h-48">
-            <Avatar className="w-full h-full">
-              <AvatarImage src="/placeholder.svg" alt="Mohamed Mahmoud" />
-              <AvatarFallback>MM</AvatarFallback>
-            </Avatar>
+          <div className="w-48 h-48 md:w-64 md:h-64">
+            <img
+              src="/lovable-uploads/mohamed-profile.png"
+              alt="Mohamed Mahmoud"
+              className="w-full h-full object-cover rounded-full"
+            />
           </div>
         </div>
       </div>
