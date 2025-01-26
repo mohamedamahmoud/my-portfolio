@@ -2,14 +2,17 @@ import { BriefcaseIcon, GraduationCap } from "lucide-react";
 
 export const Hero = () => {
   return (
-    <section className="min-h-screen flex items-center justify-center bg-gradient-to-b from-portfolio-light to-white">
+    <section
+      className="min-h-screen flex items-center justify-center bg-gradient-to-b from-portfolio-light to-white pt-16"
+      id="home"
+    >
       <div className="container mx-auto px-4 py-16 animate-fadeIn">
         <div className="text-center">
-          <h1 className="text-4xl md:text-6xl font-bold text-portfolio-primary mb-6">
-            Software QA Test Engineer
+          <h1 className="text-4xl md:text-6xl font-bold text-portfolio-primary mb-4">
+            Mohamed Mahmoud
           </h1>
           <p className="text-xl md:text-2xl text-portfolio-secondary mb-8">
-            Ensuring software quality at Cisco
+            Software Engineer
           </p>
           <div className="flex flex-wrap justify-center gap-6">
             <div className="flex items-center gap-2 text-portfolio-secondary">
