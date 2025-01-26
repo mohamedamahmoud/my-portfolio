@@ -29,7 +29,7 @@ export const Hero = () => {
           </div>
           <div className="w-48 h-48 md:w-64 md:h-64">
             <img
-              src="/lovable-uploads/mohamed-profile.png"
+              src="/assets/profile-photo.png"
               alt="Mohamed Mahmoud"
               className="w-full h-full object-cover rounded-full"
             />
