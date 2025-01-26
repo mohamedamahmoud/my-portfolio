@@ -10,7 +10,7 @@ export const Skills = () => {
     {
       icon: <Network className="w-6 h-6" />,
       title: "Networking & Security",
-      skills: ["L2 Multicast", "OpenSSL", "iptables", "Network Testing", "IXIA"],
+      skills: ["L2/L3 Multicast", "OSPF", "FnF", "Network Testing", "IXIA"],
     },
     {
       icon: <Server className="w-6 h-6" />,

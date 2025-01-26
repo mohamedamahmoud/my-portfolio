@@ -27,12 +27,11 @@ export const Hero = () => {
               </div>
             </div>
           </div>
-          <div className="w-48 h-300 md:w-64 md:h-64">
+          <div className="flex items-center justify-center">
             <img
               src="/assets/profile-photo.png"
               alt="Mohamed Mahmoud"
-              className="w-full h-full object-cover rounded-full"
-            />
+              className="w-full h-full object-cover rounded-full"            />
           </div>
         </div>
       </div>
