@@ -1,4 +1,4 @@
-import { Globe, Mail } from "lucide-react";
+import { Globe, Mail, Phone } from "lucide-react";
 
 export const Contact = () => {
   return (
@@ -18,10 +18,20 @@ export const Contact = () => {
               <Globe className="w-6 h-6" />
               <span>Cisco</span>
             </a>
-            <div className="flex items-center gap-3 text-portfolio-secondary">
+            <a
+              href="mailto:mohameda.mahmoud186@gmail.com"
+              className="flex items-center gap-3 text-portfolio-secondary hover:text-portfolio-accent transition-colors"
+            >
               <Mail className="w-6 h-6" />
-              <span>Contact me for email details</span>
-            </div>
+              <span>mohameda.mahmoud186@gmail.com</span>
+            </a>
+            <a
+              href="tel:+16132400406"
+              className="flex items-center gap-3 text-portfolio-secondary hover:text-portfolio-accent transition-colors"
+            >
+              <Phone className="w-6 h-6" />
+              <span>(613) 240-0406</span>
+            </a>
           </div>
         </div>
       </div>
