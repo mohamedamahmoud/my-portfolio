@@ -27,7 +27,7 @@ export const Hero = () => {
               </div>
             </div>
           </div>
-          <div className="w-48 h-48 md:w-64 md:h-64">
+          <div className="w-48 h-300 md:w-64 md:h-64">
             <img
               src="/lovable-uploads/mohamed-profile.png"
               alt="Mohamed Mahmoud"
