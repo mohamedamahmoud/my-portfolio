@@ -27,7 +27,7 @@ export const Hero = () => {
               </div>
             </div>
           </div>
-          <div className="flex items-center justify-center">
+          <div className="flex items-center justify-center -mt-8">
             <img
               src="/assets/profile-photo.png"
               alt="Mohamed Mahmoud"
