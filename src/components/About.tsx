@@ -7,8 +7,9 @@ export const About = () => {
         </h2>
         <div className="max-w-3xl mx-auto bg-white rounded-lg p-6 md:p-8 shadow-lg">
           <p className="text-lg text-portfolio-secondary leading-relaxed">
-            I am a Software Engineer experienced in Networking. I have 3+ years of
-            experience in automation using Python and network protocol testing.
+          I am a Computer Systems Engineer with a degree from Carleton University 
+          and over three years of hands-on experience in automation and L2/L3 network protocol testing.
+           Skilled in Python scripting and network technologies, I thrive on solving complex challenges and delivering efficient solutions in dynamic environments..
           </p>
         </div>
       </div>
