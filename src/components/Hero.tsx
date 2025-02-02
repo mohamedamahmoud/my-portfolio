@@ -7,7 +7,7 @@ export const Hero = () => {
       className="min-h-screen flex items-center justify-center bg-gradient-to-b from-portfolio-light to-white pt-16"
       id="home"
     >
-      <div className="container mx-auto px-4 py-16 animate-fadeIn">
+      <div className="container mx-auto px-4 py-8 animate-fadeIn">
         <div className="flex flex-col md:flex-row items-center justify-center gap-8">
           <div className="text-center md:text-left">
             <h1 className="text-4xl md:text-6xl font-bold text-portfolio-primary mb-4">
